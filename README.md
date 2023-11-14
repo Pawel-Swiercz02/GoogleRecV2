@@ -9,4 +9,4 @@ This time I included every little detail, like the shadow that appears while hov
 
 PS: When I learn CSS animations, I'm definitely going to make the search bar function properly (maybe even add a little data base for search queries that appear once you type something in - probably going to use phpmyadmin for that since I learned that in school). I'll definitely add the menu that appears when you click on your logo to switch profiles and also the menu with gmail, google docs etc. when you click on the dotted icon.
 
-PPS: That's not my cat on the logo, it's just a no copyright stock photo.
+PPS: That's not my cat on the logo, it's just a copyright-free stock photo.
