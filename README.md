@@ -1,5 +1,5 @@
 # GoogleRecV2
-Recreation of the Google home page version 2.
+Recreation of the Google home page version 2. (In Polish this time)
 
 Looks much cleaner, because I used darker and better matched colors.
 
